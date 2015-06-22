@@ -1,0 +1,6 @@
+TF300t-AKBI v0.9 - Beta
+
+TF300t Android Kexecboot Installer Script
+
+v0.09 - 06/22/2015
+--First release - Beta
